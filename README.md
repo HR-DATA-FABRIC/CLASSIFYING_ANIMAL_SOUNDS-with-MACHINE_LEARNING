@@ -1,2 +1,5 @@
-# ONOMATOPOEIC-SOUND-CLASSIFICATION
-Despite its complex look and sound, onomatopoeia actually has a simple function in the English language. It’s defined as “the formation of a word, as cuckoo, meow, honk, or boom, by imitation of a sound made by or associated with its referent.”  To put it simply, it’s a word that sounds like what it means.
+# Computational bioacoustics
+Animal vocalisations and natural soundscapes are fascinating objects of study, and
+contain valuable evidence about animal behaviours, populations and ecosystems.
+They are studied in bioacoustics and ecoacoustics, with signal processing and analysis
+an important component.
