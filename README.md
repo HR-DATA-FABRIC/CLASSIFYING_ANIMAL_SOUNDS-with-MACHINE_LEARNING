@@ -16,3 +16,6 @@ In particular, classification of the acoustic repertoires of animals into sound 
 ![image](https://github.com/HR-DATA-FABRIC/CLASSIFYING_ANIMAL_SOUNDS-with-MACHINE_LEARNING/assets/684692/3273ff1c-bbec-49f6-a89d-157202d18773)
 
 ![image](https://github.com/HR-DATA-FABRIC/CLASSIFYING_ANIMAL_SOUNDS-with-MACHINE_LEARNING/assets/684692/e2ad7597-484b-40d3-b02e-15ca445b0a9b)
+
+Spectrograms and oscillograms of typical echolocation calls emitted during search flight by 18
+species of New World molossid bats.
