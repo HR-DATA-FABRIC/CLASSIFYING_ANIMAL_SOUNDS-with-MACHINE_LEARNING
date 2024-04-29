@@ -10,3 +10,8 @@ In particular, classification of the acoustic repertoires of animals into sound 
 
 
 ![image](https://github.com/HR-DATA-FABRIC/CLASSIFYING_ANIMAL_SOUNDS-with-MACHINE_LEARNING/assets/684692/f48cc7d4-8497-4610-93ef-a18c219f5546)
+
+
+
+![image](https://github.com/HR-DATA-FABRIC/CLASSIFYING_ANIMAL_SOUNDS-with-MACHINE_LEARNING/assets/684692/3273ff1c-bbec-49f6-a89d-157202d18773)
+
