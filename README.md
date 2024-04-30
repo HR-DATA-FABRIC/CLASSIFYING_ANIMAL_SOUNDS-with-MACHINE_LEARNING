@@ -74,7 +74,7 @@ A Scalogram-Based CNN Approach for Audio Classification in Construction Sites. A
 
 ## Research Aim
 
-Motivated by the above stated considerations, we propose a Transfer Learning" approach for the
+Motivated by the above stated considerations, we propose a "Transfer Learning" approach for the
 automatic monitoring of bats sounds by developing a Computer Vision-driven Deep Learning based  AI-model for Audio Classification of bat sound scalograms.
 
 ## Dataset
@@ -88,7 +88,7 @@ Matlab code is provided here that allows you to locally download all avaiable ba
 
 
 
-In addition,  we will use recodinglist database from the [Xeno-canto Foundation](https://xeno-canto.org/collection/). It is a [citizen science project](https://en.wikipedia.org/wiki/Xeno-canto) and repository in which volunteers record, upload and annotate recordings of bird calls and sounds of orthoptera and bats from Europe, including the Netherlands. It is sponsed by [Naturalis Biodiversity Center](https://www.naturalis.nl/).
+In addition,  we will use the recodinglist database from the [Xeno-canto Foundation](https://xeno-canto.org/collection/). It is a [citizen science project](https://en.wikipedia.org/wiki/Xeno-canto) and repository in which volunteers record, upload and annotate recordings of bird calls and sounds of orthoptera and bats from Europe, including the Netherlands. It is sponsed by [Naturalis Biodiversity Center](https://www.naturalis.nl/).
 
 In a later phase we will add bat sound recordings from [species](https://www.vleermuis.net/329-geluiden/215-vleermuisgeluiden) that naturally occure in the Netherlands. These recordings will be made available through (DataverseNL)[https://dataverse.nl/] under a creative commons zero license [(CC0)](https://creativecommons.org/public-domain/cc0/).
 
