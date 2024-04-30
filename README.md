@@ -93,10 +93,32 @@ In addition,  we will use recodinglist database from the [Xeno-canto Foundation]
 In a later phase we will add bat sound recordings from [species](https://www.vleermuis.net/329-geluiden/215-vleermuisgeluiden) that naturally occure in the Netherlands. These recordings will be made available through (DataverseNL)[https://dataverse.nl/] under a creative commons zero license [(CC0)](https://creativecommons.org/public-domain/cc0/).
 
 
-## Research Approach: Transfer Leanring
+## Research Approach: Transfer Learning
 
-We aim to develop a Audio Classification Model dedicated to bat sound analysis using a transfer learning approach with scalogram images as input data.
+We aim to develop a Audio Classification Model dedicated to bat sound analysis using a transfer learning approach with high-resolution scalogram images as input data.
 
+![alt text](image.png)
+
+
+
+## Studied Materials
+
+* Borowiec, M. L., Dikow, R. B., Frandsen, P. B., McKeeken, A., Valentini, G., & White, A. E. (2022). *Deep learning as a tool for ecology and evolution.* In:  Methods in Ecology and Evolution, 13, 1640–1660. https://doi.org/10.1111/2041-210X.13901
+
+* Ren, Z., Qian, K., Zhang, Z., Pandit, V., Baird A., & Schuller, B. (2018). *Deep Scalogram Representations for Acoustic Scene Classification.* In: IEEE/CAA Journal of Automatica Sinica, vol. 5, no. 3, pp. 662-669. https://10.1109/JAS.2018.7511066.
+
+* Jung K, Molinari J, Kalko EKV (2014). *Driving Factors for the Evolution of Species-Specific Echolocation Call Design in New World Free-Tailed Bats (Molossidae).* In: PLoS ONE 9(1): e85279. https://doi.org/10.1371/journal.pone.0085279
+
+* Stowell D. (2022). *Computational bioacoustics with deep learning: a review and roadmap.* In: PeerJ. 10:e13152. https://doi.org/10.7717/peerj.13152.
+
+* Görföl T, Huang JC, Csorba G, Győrössy D, Estók P, Kingston T, Szabadi KL, McArthur E, Senawi J, Furey NM, Tu VT, Thong VD, Khan FAA, Jinggong ER, Donnelly M, Kumaran JV, Liu J, Chen S, Tuanmu M, Ho Y, Chang H, Elias N, Abdullah N, Lim L, Squire CD, Zsebők S. (2022). *ChiroVox: a public library of bat calls.*
+In: PeerJ 10:e12445 https://doi.org/10.7717/peerj.12445
+
+* Oswald, J.N., Erbe, C., Gannon, W.L., Madhusudhana, S., Thomas, J.A. (2022). *Detection and Classification Methods for Animal Sounds.* In: Erbe, C., Thomas, J.A. (eds) Exploring Animal Behavior Through Sound: Volume 1. Springer, Cham. https://doi.org/10.1007/978-3-030-97540-1_8
+
+* Scarpiniti M, Parisi R, Lee Y-C. *A Scalogram-Based CNN Approach for Audio Classification in Construction Sites.* In: Applied Sciences. (2024) 14(1):90. https://doi.org/10.3390/app14010090
+
+* Aburakhia, S., Shami, A., & Karagiannidis, G. K. (2024). *On the Intersection of Signal Processing and Machine Learning: A Use Case-Driven Analysis Approach.* arXiv preprint.  https://doi.org/10.48550/arXiv.2403.17181
 
 
 
