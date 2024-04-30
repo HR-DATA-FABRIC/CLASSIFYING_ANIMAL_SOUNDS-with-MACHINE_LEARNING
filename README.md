@@ -77,6 +77,15 @@ A Scalogram-Based CNN Approach for Audio Classification in Construction Sites. A
 Motivated by the above stated considerations, we propose a new approach for the
 automatic monitoring of bats sounds by developing a Computer Vision-driven Deep Learning Approach for Audio Classification of bats sound scalograms.
 
+## Dataset
+
+Initially we will start using the  [ChiroVox website](https://www.chirovox.org/stat.php), the home of bat recordings from all over the world. The site is intended to facilitate work with bat sounds and is based on the Asian Bat Call Database, an initiative of the Hungarian Natural History Museum (HNHM) and the Southeast Asian Bat Conservation Research Unit (SEABCRU). 
+
+In addition,  we will use recodinglist database from the [Xeno-canto Foundation](https://xeno-canto.org/collection/). It is a [citizen science project](https://en.wikipedia.org/wiki/Xeno-canto) and repository in which volunteers record, upload and annotate recordings of bird calls and sounds of orthoptera and bats from Europe, including the Netherlands. It is sponsed by [Naturalis Biodiversity Center](https://www.naturalis.nl/).
+
+In a later phase we will add bat sound recordings from [species](https://www.vleermuis.net/329-geluiden/215-vleermuisgeluiden) that naturally occure in the Netherlands. These recordings will be made available through 
+
+
 ## Research Approach
 
 
