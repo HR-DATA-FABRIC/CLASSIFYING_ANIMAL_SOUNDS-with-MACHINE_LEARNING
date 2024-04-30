@@ -94,7 +94,6 @@ In a later phase we will add bat sound recordings from [species](https://www.vle
 
 #
 
-
 ## Research Approach: Transfer Learning
 
 We aim to develop a Audio Classification Model dedicated to bat sound analysis using a transfer learning approach with high-resolution scalogram images as input data.
@@ -102,15 +101,25 @@ We aim to develop a Audio Classification Model dedicated to bat sound analysis u
 
 <img align="left" width="500" height="250" src="image-1.png">
 
-Deep learning architectures  commonly used for audio classification:  
+Shown is a taxonomy of Deep learning architectures  commonly used for audio classification:  
 
 Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), autoencoders, transformers and hybrid models (hybrid deep learning models, such as CNN-RNN and hybrid deep learning models with traditional classifiers such as CNN-SVM).
 
- 
+The most promising open-source pre-trained deep learning audio classifiers are Audio Spectrogram Transformer models according to  [Papers with Code](https://paperswithcode.com/task/audio-classification). 
 
 
 
-#
+<img align="left" width="500" height="600" src="image-3.png"> These models are trained with [AudioSet](https://research.google.com/audioset/). It consists of an expanding ontology of 632 audio event classes and a collection of 2,084,320 human-labeled 10-second sound clips drawn from YouTube videos. See also [List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research) + The AudioSet ontology is a collection of sound events organized in a hierarchy [(shown below)](https://research.google.com/audioset/ontology/index.html)
+
+
+
+<!--
+https://paperswithcode.com/sota/audio-classification-on-audioset
+<img align="left" width="600" height="800" src="image-2.png"> The most prommising model as VGGish and Yamnet
+--> 
+
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+
 
 
 ## Studied Materials
@@ -132,6 +141,19 @@ In: PeerJ 10:e12445 https://doi.org/10.7717/peerj.12445
 
 * Aburakhia, S., Shami, A., & Karagiannidis, G. K. (2024). *On the Intersection of Signal Processing and Machine Learning: A Use Case-Driven Analysis Approach.* arXiv preprint.  https://doi.org/10.48550/arXiv.2403.17181
 
+* Tsalera, E.; Papadakis, A.; Samarakou, M. (2021). *Comparison of Pre-Trained CNNs for Audio Classification Using Transfer Learning.* In: J. Sens. Actuator Netw. Vol. 10, no. 72. https://doi.org/10.3390/jsan10040072
 
 
+* Cappellazzo, U., Falavigna, D., Brutti, A., & Ravanelli, M. (2023). Parameter-Efficient Transfer Learning of Audio Spectrogram Transformers. arXiv preprint.  https://doi.org/10.48550/arXiv.2403.17181
 
+* Elsa SteinfathAdrian Palacios-MuñozJulian R RottschäferDeniz YuezakJan Clemens (2021) Fast and accurate annotation of acoustic signals with deep neural networks eLife 10:e68837.
+https://doi.org/10.7554/eLife.68837
+
+* Abayomi-Alli OO, Damaševičius R, Qazi A, Adedoyin-Olowe M, Misra S. Data Augmentation and Deep Learning Methods in Sound Classification: A Systematic Review. Electronics. 2022; 11(22):3795. https://doi.org/10.3390/electronics11223795
+
+* Michaud, F., Sueur, J., Le Cesne, M., & Haupert, S. (2023). *Unsupervised classification to improve the quality of a bird song recording dataset.* In:  Ecological Informatics, 74, 101952.
+https://doi.org/10.1016/j.ecoinf.2022.101952
+
+* Srivastava, S., & Sharma, G. (2024). Omnivec: Learning robust representations with cross modal sharing. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 1236-1248).
+
+* Chen, S., Wu, Y., Wang, C., Liu, S., Tompkins, D., Chen, Z., & Wei, F. (2022). Beats: Audio pre-training with acoustic tokenizers. arXiv preprint https://arxiv.org/abs/2212.09058v1
