@@ -74,8 +74,8 @@ A Scalogram-Based CNN Approach for Audio Classification in Construction Sites. A
 
 ## Research Aim
 
-Motivated by the above stated considerations, we propose a new approach for the
-automatic monitoring of bats sounds by developing a Computer Vision-driven Deep Learning Approach for Audio Classification of bats sound scalograms.
+Motivated by the above stated considerations, we propose a Transfer Learning" approach for the
+automatic monitoring of bats sounds by developing a Computer Vision-driven Deep Learning based  AI-model for Audio Classification of bat sound scalograms.
 
 ## Dataset
 
