@@ -92,13 +92,25 @@ In addition,  we will use recodinglist database from the [Xeno-canto Foundation]
 
 In a later phase we will add bat sound recordings from [species](https://www.vleermuis.net/329-geluiden/215-vleermuisgeluiden) that naturally occure in the Netherlands. These recordings will be made available through (DataverseNL)[https://dataverse.nl/] under a creative commons zero license [(CC0)](https://creativecommons.org/public-domain/cc0/).
 
+#
+
 
 ## Research Approach: Transfer Learning
 
 We aim to develop a Audio Classification Model dedicated to bat sound analysis using a transfer learning approach with high-resolution scalogram images as input data.
 
-![alt text](image.png)
 
+<img align="left" width="500" height="250" src="image-1.png">
+
+Deep learning architectures  commonly used for audio classification:  
+
+Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), autoencoders, transformers and hybrid models (hybrid deep learning models, such as CNN-RNN and hybrid deep learning models with traditional classifiers such as CNN-SVM).
+
+ 
+
+
+
+#
 
 
 ## Studied Materials
