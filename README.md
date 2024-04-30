@@ -30,7 +30,7 @@ Imagine trying to identify a bat species just by listening to its sounds. For de
 <img align="left" width="200" height="200" src="https://github.com/HR-DATA-FABRIC/CLASSIFYING_ANIMAL_SOUNDS-with-MACHINE_LEARNING/assets/684692/3d1920aa-51e0-4c11-b3a5-4825f9e4c8fd">
 
 
-Shown are scalograms of 3 bat species that are wide spread in the Netherlands: 
+Shown are scalogram images of 3 bat species that are wide spread in the Netherlands: 
 Vespertilio_murinus / Plecotus_auritus/ Pipistrellus_pipistrellus.
 
 #
@@ -83,10 +83,14 @@ Initially we will start using the  [ChiroVox website](https://www.chirovox.org/s
 
 In addition,  we will use recodinglist database from the [Xeno-canto Foundation](https://xeno-canto.org/collection/). It is a [citizen science project](https://en.wikipedia.org/wiki/Xeno-canto) and repository in which volunteers record, upload and annotate recordings of bird calls and sounds of orthoptera and bats from Europe, including the Netherlands. It is sponsed by [Naturalis Biodiversity Center](https://www.naturalis.nl/).
 
-In a later phase we will add bat sound recordings from [species](https://www.vleermuis.net/329-geluiden/215-vleermuisgeluiden) that naturally occure in the Netherlands. These recordings will be made available through 
+In a later phase we will add bat sound recordings from [species](https://www.vleermuis.net/329-geluiden/215-vleermuisgeluiden) that naturally occure in the Netherlands. These recordings will be made available through (DataverseNL)[https://dataverse.nl/] under a creative commons zero license [(CC0)](https://creativecommons.org/public-domain/cc0/).
 
 
-## Research Approach
+## Research Approach: Transfer Leanring
+
+We aim to develop a Audio Classification Model dedicated to bat sound analysis using a transfer learning approach with scalogram images as input data.
+
+
 
 
 
