@@ -20,4 +20,8 @@ Spectrograms and oscillograms of typical echolocation calls emitted during searc
 species of New World molossid bats.
 
 
+<<<<<<< HEAD
 ![image](https://github.com/HR-DATA-FABRIC/CLASSIFYING_ANIMAL_SOUNDS-with-MACHINE_LEARNING/assets/684692/2bd3776f-9e19-4da3-82bb-32f77fb7e187)
+=======
+![image](https://github.com/HR-DATA-FABRIC/CLASSIFYING_ANIMAL_SOUNDS-with-MACHINE_LEARNING/assets/684692/2bd3776f-9e19-4da3-82bb-32f77fb7e187)
+>>>>>>> 297676c7a89391ad3fac3e91ed26fbc88d139acb
