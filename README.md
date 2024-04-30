@@ -9,6 +9,12 @@ Understanding bat populations and behavior is crucial for their conservation, bu
  
 Thus, classification of the acoustic repertoires of bats into sound types is a useful tool for taxonomic studies, behavioral studies, and for documenting their occurrence.
 
+
+ Views since 30 April 2024: [![HitCount](https://hits.dwyl.com/robvdw/HR-DATA-FABRIC/CLASSIFYING_ANIMAL_SOUNDS-with-MACHINE_LEARNING/.svg?style=flat-square)](http://hits.dwyl.com/robvdw/HR-DATA-FABRIC/CLASSIFYING_ANIMAL_SOUNDS-with-MACHINE_LEARNING/)
+  <br>
+  Unique visitors:   [![HitCount](https://hits.dwyl.com/robvdw/HR-DATA-FABRIC/CLASSIFYING_ANIMAL_SOUNDS-with-MACHINE_LEARNING/.svg?style=flat-square&show=unique)](http://hits.dwyl.com/robvdw/HR-DATA-FABRIC/CLASSIFYING_ANIMAL_SOUNDS-with-MACHINE_LEARNING/)
+
+
 <!--
 ![image](https://github.com/HR-DATA-FABRIC/CLASSIFYING_ANIMAL_SOUNDS-with-MACHINE_LEARNING/assets/684692/e2ad7597-484b-40d3-b02e-15ca445b0a9b)
 -->
