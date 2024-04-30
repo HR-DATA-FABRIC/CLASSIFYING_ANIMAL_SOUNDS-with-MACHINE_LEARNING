@@ -38,7 +38,9 @@ Vespertilio_murinus / Plecotus_auritus/ Pipistrellus_pipistrellus.
 The scalogram is defined as the square modulus of the ContinuousWavelet Transform (CWT) 
 and is known as a powerful tool for analyzing real-world signals.
 
-
+The matlab file:
+<a href="https://github.com/HR-DATA-FABRIC/CLASSIFYING_ANIMAL_SOUNDS-with-MACHINE_LEARNING/blob/main/Code/BAT_CALL_SCALOGRAM_Matlab_code_example.m">BAT_CALL_SCALOGRAM_Matlab_code_example.m </a>
+contains code to compute a scalogram from a .WAV audio file.
 
 Source: Scarpiniti, M.; Parisi, R.; Lee, Y.-C. 
 A Scalogram-Based CNN Approach for Audio Classification in Construction Sites. Appl. Sci. 2024, 14, 90. 
