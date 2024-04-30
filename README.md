@@ -30,6 +30,8 @@ Imagine trying to identify a bat species just by listening to its sounds. For de
 
 Shown are scalograms of 3 bat species that are wide spread in the Netherlands: 
 Vespertilio_murinus / Plecotus_auritus/ Pipistrellus_pipistrellus.
+<br />
+<br />
 
 ## Computer Vision driven Audio Classification
 Computer Vision driven Audio Classification marries the two domains by applying the principles of visual understanding to audio data. It leverages deep learning techniques to "see" sound, just as it would with images. This innovation has opened doors to automatically determine bat species based on acoustic sound montoring alone.
