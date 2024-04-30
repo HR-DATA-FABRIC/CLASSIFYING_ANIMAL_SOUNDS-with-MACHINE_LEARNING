@@ -5,17 +5,29 @@
 
 The study of the production, transmission, and classification of animal sounds in nature is called bioacoustics. Animal vocalisations and natural soundscapes are fascinating objects of study, and contain valuable evidence about animal behaviours, populations and ecosystems.
 
-Understanding bat populations and behavior is crucial for their conservation, but these nocturnal creatures are difficult to study directly. Their speed, nighttime activity, and preferred habitats make traditional observation methods impractical. Nonetheless, bats use ultrasonic sounds for navigation, making passive acoustic monitoring powerful tool for bat research.
+Understanding bat populations and behavior is crucial for their conservation, but these nocturnal creatures are difficult to study directly. Their speed, nighttime activity, and preferred habitats make traditional observation methods impractical. Thankfully,, bats use ultrasonic sounds for navigation, making acoustic monitoring a powerful tool for bat research.
  
-In summary, classification of the acoustic repertoires of bats into sound types is a useful tool for taxonomic studies, behavioral studies, and for documenting the occurrence of bats.
+Thus, classification of the acoustic repertoires of bats into sound types is a useful tool for taxonomic studies, behavioral studies, and for documenting their occurrence.
 
 ## Scalogram-Based Deep Learning Approach 
 
-In the exciting new world of Artificial Intelligence (AI), deep learing-based computer vision (CV)   lets computers "see" and classify images. But what if could applied CV to "hear"  and classify sounds? 
+In the exciting new world of Artificial Intelligence (AI), deep learing-based computer vision (CV) lets computers "see" and classify images. But what if could applied CV to "hear"  and classify sounds? 
 
-Acoustic classification with CV marries the two domains by applying the principles of visual understanding to audio data. It leverages deep learning techniques to "see" sound, just as it would with images. This innovation has opened doors to a plethora of applications that were once out of reach.
+Imagine trying to identify a bat species just by listening to its sounds. For decades, scientists relied on acoustic features like pitch and loudness, calculated by hand, to classify sounds. But recently, a new approach has emerged. Deep learning-based CV that can automatically classify images of sound called scalograms.
 
-Imagine trying to identify a bat species just by listening to its sounds. That's what Acoustic Scene Classification (ASC) is all about! For years, scientists relied on features like pitch and loudness, calculated by hand, to classify sounds. But recently, a new approach has emerged. Deep learning, a type of artificial intelligence, can automatically analyze images of sound – spectrograms – to understand the environment. This is especially helpful when there are many different environments to identify, making ASC much more powerful!
+<img align="left" width="200" height="200" src="https://github.com/HR-DATA-FABRIC/CLASSIFYING_ANIMAL_SOUNDS-with-MACHINE_LEARNING/assets/684692/df1d5552-dc9c-44bd-9e83-d32f493ed752">
+
+<img align="left" width="200" height="200" src="https://github.com/HR-DATA-FABRIC/CLASSIFYING_ANIMAL_SOUNDS-with-MACHINE_LEARNING/assets/684692/d8fe838a-e28e-46fa-88a7-a158d30956e3">
+
+<img align="left" width="200" height="200" src="https://github.com/HR-DATA-FABRIC/CLASSIFYING_ANIMAL_SOUNDS-with-MACHINE_LEARNING/assets/684692/3d1920aa-51e0-4c11-b3a5-4825f9e4c8fd">
+
+
+Shown are scalograms of 3 bat species that are wide spread in the Netherlands: 
+Vespertilio_murinus / Plecotus_auritus/ Pipistrellus_pipistrellus.
+
+
+Computer Vision driven Audio Classification marries the two domains by applying the principles of visual understanding to audio data. It leverages deep learning techniques to "see" sound, just as it would with images. This innovation has opened doors to automatically determine bat species based on acoustic sound montoring alone.
+
 
 https://huggingface.co/blog/Andyrasika/voice-with-vision
 
