@@ -33,6 +33,7 @@ Imagine trying to identify a bat species just by listening to its sounds. For de
 Shown are scalograms of 3 bat species that are wide spread in the Netherlands: 
 Vespertilio_murinus / Plecotus_auritus/ Pipistrellus_pipistrellus.
 
+#
 
 <pre>
 The scalogram is defined as the square modulus of the ContinuousWavelet Transform (CWT) 
@@ -75,4 +76,8 @@ A Scalogram-Based CNN Approach for Audio Classification in Construction Sites. A
 
 Motivated by the above stated considerations, we propose a new approach for the
 automatic monitoring of bats sounds by developing a Computer Vision-driven Deep Learning Approach for Audio Classification of bats sound scalograms.
+
+## Research Approach
+
+
 
