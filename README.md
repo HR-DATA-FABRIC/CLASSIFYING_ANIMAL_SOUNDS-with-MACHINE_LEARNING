@@ -42,12 +42,12 @@ Computer Vision driven Audio Classification marries the two domains by applying 
 
 *****
 
+<pre>
 
-> <br /> Stel je een computer voor die jouw zinnen kan afmaken met een betere zinswending;  of een gesprek met je kan voeren over een thema dat jouw interesseert; of een probleem direct kan oplossen door honderden regels computercode te schrijven binnen enkele seconden. Een dergelijke computer vormt een schakel in een lange keten van werktuigen zoals het weefgetouw, de boekdrukpers en de stoommachine die de industriële revolutie opgang brachten. Tegelijkertijd is het onderdeel van een nieuwe klasse aan _lerende machines_, omdat het de symbolen in taal omzet & computercode schrijft op manieren die creatief lijken. Een beetje zoals een mens dat zou doen. Of toch niet??!!! Voorlopig is het een "work-in-progress".
+Figure adapted from: Scarpiniti, M.; Parisi, R.; Lee, Y.-C. A Scalogram-Based CNN Approach for Audio Classification in Construction Sites. Appl. Sci. 2024, 14, 90. 
 
-<br> 
-
-<br /> <br /> Figure adapted from: Scarpiniti, M.; Parisi, R.; Lee, Y.-C. A Scalogram-Based CNN Approach for Audio Classification in Construction Sites. Appl. Sci. 2024, 14, 90. https://doi.org/10.3390/app14010090
+<a href="https://doi.org/10.3390/app14010090"> https://doi.org/10.3390/app14010090t_databases</a>
+</pre>
 
 
 
