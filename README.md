@@ -44,7 +44,8 @@ Computer Vision driven Audio Classification marries the two domains by applying 
 
 <pre>
 
-Figure adapted from: Scarpiniti, M.; Parisi, R.; Lee, Y.-C. A Scalogram-Based CNN Approach for Audio Classification in Construction Sites. Appl. Sci. 2024, 14, 90. 
+Figure adapted from: 
+Scarpiniti, M.; Parisi, R.; Lee, Y.-C. A Scalogram-Based CNN Approach for Audio Classification in Construction Sites. Appl. Sci. 2024, 14, 90. 
 <a href="https://doi.org/10.3390/app14010090">https://doi.org/10.3390/app14010090t_databases</a>
 </pre>
 
