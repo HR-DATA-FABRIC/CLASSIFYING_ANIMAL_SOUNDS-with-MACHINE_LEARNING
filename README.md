@@ -96,8 +96,7 @@ In a later phase we will add bat sound recordings from [species](https://www.vle
 
 ## Research Approach: Transfer Learning
 
-We aim to develop a Audio Classification Model dedicated to bat sound analysis using a transfer learning approach with high-resolution scalogram images as input data.
-
+We aim to develop a Audio Classification Model dedicated to bat sound analysis using a transfer learning approach with high-resolution scalogram images as input data. We will start by implementing Matlab's audioPretrainedNetwork [Matlab Mathworks](https://nl.mathworks.com/help/audio/ref/audiopretrainednetwork.html#description) that allows to [implement](https://nl.mathworks.com/help/deeplearning/ug/transfer-learning-with-audio-networks-in-deep-network-designer.html) transfer learning with a specified pretrained audio neural network like YAMnet or VGGish. We will compare this to [Google's Tensorflow implementation](https://www.tensorflow.org/tutorials/audio/transfer_learning_audio) of transfer learning with YAMNet for environmental sound classification and [Pytorch Audio classification](https://bamblebam.medium.com/audio-classification-and-regression-using-pytorch-48db77b3a5ec).
 
 <img align="left" width="500" height="250" src="image-1.png">
 
