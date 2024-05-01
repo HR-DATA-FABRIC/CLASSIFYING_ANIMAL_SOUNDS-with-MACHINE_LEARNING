@@ -102,7 +102,11 @@ In a later phase we will add bat sound recordings from [species](https://www.vle
 
 ## Research Approach: Transfer Learning
 
-We aim to develop a Audio Classification Model dedicated to bat sound analysis using a transfer learning approach with high-resolution scalogram images as input data. We will start by implementing Matlab's audioPretrainedNetwork [Matlab Mathworks](https://nl.mathworks.com/help/audio/ref/audiopretrainednetwork.html#description) that allows to [implement](https://nl.mathworks.com/help/deeplearning/ug/transfer-learning-with-audio-networks-in-deep-network-designer.html) transfer learning with a specified pretrained audio neural network like YAMnet or VGGish. We will compare this to [Google's Tensorflow implementation](https://www.tensorflow.org/tutorials/audio/transfer_learning_audio) of transfer learning with YAMNet for environmental sound classification and [Pytorch Audio classification](https://bamblebam.medium.com/audio-classification-and-regression-using-pytorch-48db77b3a5ec).
+We aim to develop a Audio Classification Model dedicated to bat sound analysis using a transfer learning approach with high-resolution scalogram images as input data. 
+
+We will start by implementing Matlab's audioPretrainedNetwork [Matlab Mathworks](https://nl.mathworks.com/help/audio/ref/audiopretrainednetwork.html#description) that allows to [implement](https://nl.mathworks.com/help/deeplearning/ug/transfer-learning-with-audio-networks-in-deep-network-designer.html) transfer learning with a specified pretrained audio neural network like YAMnet or VGGish.
+
+ A comparison will be made to [Google's Tensorflow implementation](https://www.tensorflow.org/tutorials/audio/transfer_learning_audio) of transfer learning with YAMNet for environmental sound classification and [Pytorch Audio classification](https://bamblebam.medium.com/audio-classification-and-regression-using-pytorch-48db77b3a5ec).
 
 <img align="left" width="500" height="250" src="image-1.png">
 
@@ -110,11 +114,10 @@ Shown is a taxonomy of Deep learning architectures commonly used for audio class
 
 Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), autoencoders, transformers and hybrid models (hybrid deep learning models, such as CNN-RNN and hybrid deep learning models with traditional classifiers such as CNN-SVM).
 
-The most promising open-source pre-trained deep learning audio classifiers are Audio Spectrogram Transformer models according to  [Papers with Code](https://paperswithcode.com/task/audio-classification). 
+The most promising pre-trained deep learning audio classifiers are Audio Spectrogram Transformer models according to  [Papers with Code](https://paperswithcode.com/task/audio-classification). But the top 5 are not available through the open-source transformers library [Huggingface](https://huggingface.co/).
 
 
-
-<img align="left" width="500" height="600" src="image-3.png"> These models are trained with [AudioSet](https://research.google.com/audioset/). It consists of an expanding ontology of 632 audio event classes and a collection of 2,084,320 human-labeled 10-second sound clips drawn from YouTube videos. See also [List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research) + The AudioSet ontology is a collection of sound events organized in a hierarchy [(see also Google AudioSet Ontology)](https://research.google.com/audioset/ontology/index.html)
+<img align="left" width="500" height="600" src="image-3.png"> Most transformer models are benchmarked with [AudioSet](https://research.google.com/audioset/). It consists of an expanding ontology of 632 audio event classes and a collection of 2,084,320 human-labeled 10-second sound clips drawn from YouTube videos. See also [List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research) + The AudioSet ontology is a collection of sound events organized in a hierarchy [(see also Google AudioSet Ontology)](https://research.google.com/audioset/ontology/index.html). It does not contain bat sounds.
 
 
 
