@@ -114,7 +114,7 @@ The most promising open-source pre-trained deep learning audio classifiers are A
 
 
 
-<img align="left" width="500" height="600" src="image-3.png"> These models are trained with [AudioSet](https://research.google.com/audioset/). It consists of an expanding ontology of 632 audio event classes and a collection of 2,084,320 human-labeled 10-second sound clips drawn from YouTube videos. See also [List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research) + The AudioSet ontology is a collection of sound events organized in a hierarchy [(see also)](https://research.google.com/audioset/ontology/index.html)
+<img align="left" width="500" height="600" src="image-3.png"> These models are trained with [AudioSet](https://research.google.com/audioset/). It consists of an expanding ontology of 632 audio event classes and a collection of 2,084,320 human-labeled 10-second sound clips drawn from YouTube videos. See also [List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research) + The AudioSet ontology is a collection of sound events organized in a hierarchy [(see also Google AudioSet Ontology)](https://research.google.com/audioset/ontology/index.html)
 
 
 
