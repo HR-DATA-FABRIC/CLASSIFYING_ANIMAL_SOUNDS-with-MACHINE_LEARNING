@@ -123,7 +123,28 @@ https://paperswithcode.com/sota/audio-classification-on-audioset
 <img align="left" width="600" height="800" src="image-2.png"> The most prommising model as VGGish and Yamnet
 --> 
 
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 
 
 
@@ -131,15 +152,15 @@ https://paperswithcode.com/sota/audio-classification-on-audioset
 
 * Abayomi-Alli OO, Damaševičius R, Qazi A, Adedoyin-Olowe M, Misra S. Data Augmentation and Deep Learning Methods in Sound Classification: A Systematic Review. (2022). *Electronics, 11(22):* 3795. [DOI](https://doi.org/10.3390/electronics11223795)
 
-* Aburakhia, S., Shami, A., & Karagiannidis, G. K. (2024). On the intersection of signal processing and machine learning: A use case-driven analysis approach. *arXiv preprint arXiv:2403.17181*. https://doi.org/10.48550/arXiv.2403.17181
+* Aburakhia, S., Shami, A., & Karagiannidis, G. K. (2024). On the intersection of signal processing and machine learning: A use case-driven analysis approach. *arXiv preprint arXiv:2403.17181*. [DOI](https://doi.org/10.48550/arXiv.2403.17181)
 
 * Borowiec, M. L., Dikow, R. B., Frandsen, P. B., McKeeken, A., Valentini, G., & White, A. E. (2022). Deep learning as a tool for ecology and evolution. *Methods in Ecology and Evolution, 13(6),* 1640-1660. [DOI](https://doi.org/10.1111/2041-210X.13901)
 
-* Cappellazzo, U., Falavigna, D., Brutti, A., & Ravanelli, M. (2023). *Parameter-Efficient Transfer Learning of Audio Spectrogram Transformers.*  arXiv preprint arXiv:2403.17181.  https://doi.org/10.48550/arXiv.2403.17181
+* Cappellazzo, U., Falavigna, D., Brutti, A., & Ravanelli, M. (2023). *Parameter-Efficient Transfer Learning of Audio Spectrogram Transformers.*  arXiv preprint arXiv:2403.17181.  [DOI](https://doi.org/10.48550/arXiv.2403.17181)
 
-* Chen, S., Wu, Y., Wang, C., Liu, S., Tompkins, D., Chen, Z., & Wei, F. (2022). Beats: Audio pre-training with acoustic tokenizers. *arXiv preprint arXiv:2212.09058v1*. https://arxiv.org/abs/2212.09058v1
+* Chen, S., Wu, Y., Wang, C., Liu, S., Tompkins, D., Chen, Z., & Wei, F. (2022). Beats: Audio pre-training with acoustic tokenizers. *arXiv preprint arXiv:2212.09058v1*. [DOI](https://doi.org/10.48550/arXiv.2212.09058)
 
-* Fundel, F., Braun, D. A., & Gottwald, S. (2023). Automatic bat call classification using transformer networks. Ecological Informatics, 78, 102288. [DOI]https://doi.org/https://doi.org/10.1016/j.ecoinf.2023.102288 
+* Fundel, F., Braun, D. A., & Gottwald, S. (2023). Automatic bat call classification using transformer networks. Ecological Informatics, 78, 102288. [DOI](https://doi.org/https://doi.org/10.1016/j.ecoinf.2023.102288)
 
 * Görföl, T., Huang, J. C., Csorba, G., Győrössy, D., Estók, P., Kingston, T., ... Zsebők, S. (2022). ChiroVox: A public library of bat calls. *PeerJ, 10,* e12445. [DOI](https://doi.org/10.7717/peerj.12445)
 
