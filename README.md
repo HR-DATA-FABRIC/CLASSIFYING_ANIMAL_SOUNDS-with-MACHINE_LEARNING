@@ -129,36 +129,39 @@ https://paperswithcode.com/sota/audio-classification-on-audioset
 
 ## Studied Materials
 
-* Borowiec, M. L., Dikow, R. B., Frandsen, P. B., McKeeken, A., Valentini, G., & White, A. E. (2022). *Deep learning as a tool for ecology and evolution.* In:  Methods in Ecology and Evolution, 13, 1640–1660. https://doi.org/10.1111/2041-210X.13901
+* Abayomi-Alli OO, Damaševičius R, Qazi A, Adedoyin-Olowe M, Misra S. Data Augmentation and Deep Learning Methods in Sound Classification: A Systematic Review. (2022). *Electronics, 11(22):* 3795. [DOI](https://doi.org/10.3390/electronics11223795)
 
-* Ren, Z., Qian, K., Zhang, Z., Pandit, V., Baird A., & Schuller, B. (2018). *Deep Scalogram Representations for Acoustic Scene Classification.* In: IEEE/CAA Journal of Automatica Sinica, vol. 5, no. 3, pp. 662-669. https://10.1109/JAS.2018.7511066.
+* Aburakhia, S., Shami, A., & Karagiannidis, G. K. (2024). On the intersection of signal processing and machine learning: A use case-driven analysis approach. *arXiv preprint arXiv:2403.17181*. https://doi.org/10.48550/arXiv.2403.17181
 
-* Jung K, Molinari J, Kalko EKV (2014). *Driving Factors for the Evolution of Species-Specific Echolocation Call Design in New World Free-Tailed Bats (Molossidae).* In: PLoS ONE 9(1): e85279. https://doi.org/10.1371/journal.pone.0085279
+* Borowiec, M. L., Dikow, R. B., Frandsen, P. B., McKeeken, A., Valentini, G., & White, A. E. (2022). Deep learning as a tool for ecology and evolution. *Methods in Ecology and Evolution, 13(6),* 1640-1660. [DOI](https://doi.org/10.1111/2041-210X.13901)
 
-* Stowell D. (2022). *Computational bioacoustics with deep learning: a review and roadmap.* In: PeerJ. 10:e13152. https://doi.org/10.7717/peerj.13152.
+* Cappellazzo, U., Falavigna, D., Brutti, A., & Ravanelli, M. (2023). *Parameter-Efficient Transfer Learning of Audio Spectrogram Transformers.*  arXiv preprint arXiv:2403.17181.  https://doi.org/10.48550/arXiv.2403.17181
 
-* Görföl T, Huang JC, Csorba G, Győrössy D, Estók P, Kingston T, Szabadi KL, McArthur E, Senawi J, Furey NM, Tu VT, Thong VD, Khan FAA, Jinggong ER, Donnelly M, Kumaran JV, Liu J, Chen S, Tuanmu M, Ho Y, Chang H, Elias N, Abdullah N, Lim L, Squire CD, Zsebők S. (2022). *ChiroVox: a public library of bat calls.*
-In: PeerJ 10:e12445 https://doi.org/10.7717/peerj.12445
+* Chen, S., Wu, Y., Wang, C., Liu, S., Tompkins, D., Chen, Z., & Wei, F. (2022). Beats: Audio pre-training with acoustic tokenizers. *arXiv preprint arXiv:2212.09058v1*. https://arxiv.org/abs/2212.09058v1
 
-* Oswald, J.N., Erbe, C., Gannon, W.L., Madhusudhana, S., Thomas, J.A. (2022). *Detection and Classification Methods for Animal Sounds.* In: Erbe, C., Thomas, J.A. (eds) Exploring Animal Behavior Through Sound: Volume 1. Springer, Cham. https://doi.org/10.1007/978-3-030-97540-1_8
+* Fundel, F., Braun, D. A., & Gottwald, S. (2023). Automatic bat call classification using transformer networks. Ecological Informatics, 78, 102288. [DOI]https://doi.org/https://doi.org/10.1016/j.ecoinf.2023.102288 
 
-* Scarpiniti M, Parisi R, Lee Y-C. *A Scalogram-Based CNN Approach for Audio Classification in Construction Sites.* In: Applied Sciences. (2024) 14(1):90. https://doi.org/10.3390/app14010090
+* Görföl, T., Huang, J. C., Csorba, G., Győrössy, D., Estók, P., Kingston, T., ... Zsebők, S. (2022). ChiroVox: A public library of bat calls. *PeerJ, 10,* e12445. [DOI](https://doi.org/10.7717/peerj.12445)
 
-* Aburakhia, S., Shami, A., & Karagiannidis, G. K. (2024). *On the Intersection of Signal Processing and Machine Learning: A Use Case-Driven Analysis Approach.* arXiv preprint.  https://doi.org/10.48550/arXiv.2403.17181
+* Jung, K., Molinari, J., & Kalko, E. K. V. (2014). Driving factors for the evolution of species-specific echolocation call design in New World free-tailed bats (Molossidae). *PLoS ONE, 9(1),* e85279. [DOI](https://doi.org/10.1371/journal.pone.0085279)
 
-* Tsalera, E.; Papadakis, A.; Samarakou, M. (2021). *Comparison of Pre-Trained CNNs for Audio Classification Using Transfer Learning.* In: J. Sens. Actuator Netw. Vol. 10, no. 72. https://doi.org/10.3390/jsan10040072
+* Michaud, F., Sueur, J., Le Cesne, M., & Haupert, S. (2023). Unsupervised classification to improve the quality of a bird song recording dataset. *Ecological Informatics, 74,* 101952.
+[DOI](https://doi.org/10.1016/j.ecoinf.2022.101952)
+
+* Oswald, J. N., Erbe, C., Gannon, W. L., Madhusudhana, S., & Thomas, J. A. (2022). Detection and classification methods for animal sounds. In C. Erbe & J. A. Thomas (Eds.), *Exploring Animal Behavior Through Sound: Volume 1* (pp. 141-166). Springer. [DOI](https://doi.org/10.1007/978-3-030-97540-1_8)
+
+* Ren, Z., Qian, K., Zhang, Z., Pandit, V., Baird, A., & Schuller, B. (2018). Deep Scalogram Representations for Acoustic Scene Classification. *IEEE/CAA Journal of Automatica Sinica, 5(3),* 662-669. [DOI](https://10.1109/JAS.2018.7511066)
+
+* Scarpiniti, M., Parisi, R., & Lee, Y.-C. (2024). A Scalogram-Based CNN Approach for Audio Classification in Construction Sites. *Applied Sciences, 14(1),* 90. [DOI](https://doi.org/10.3390/app14010090)
+
+* Steinfath, E., Palacios-Muñoz, A., Rottschäfer, J. R., Yuezak, D., & Clemens, J. (2021). Fast and accurate annotation of acoustic signals with deep neural networks. *eLife, 10,* e68837. [DOI](https://doi.org/10.7554/eLife.68837)
+
+* Stowell, D. (2022). Computational bioacoustics with deep learning: A review and roadmap. *PeerJ, 10,* e13152. [DOI](https://doi.org/10.7717/peerj.13152)
+
+* Tsalera, E., Papadakis, A., & Samarakou, M. (2021). Comparison of Pre-Trained CNNs for Audio Classification Using Transfer Learning. *Journal of Sensor and Actuator Networks, 10(72),* 1-9. [DOI](https://doi.org/10.3390/jsan10040072)
 
 
-* Cappellazzo, U., Falavigna, D., Brutti, A., & Ravanelli, M. (2023). Parameter-Efficient Transfer Learning of Audio Spectrogram Transformers. arXiv preprint.  https://doi.org/10.48550/arXiv.2403.17181
 
-* Elsa SteinfathAdrian Palacios-MuñozJulian R RottschäferDeniz YuezakJan Clemens (2021) Fast and accurate annotation of acoustic signals with deep neural networks eLife 10:e68837.
-https://doi.org/10.7554/eLife.68837
 
-* Abayomi-Alli OO, Damaševičius R, Qazi A, Adedoyin-Olowe M, Misra S. Data Augmentation and Deep Learning Methods in Sound Classification: A Systematic Review. Electronics. 2022; 11(22):3795. https://doi.org/10.3390/electronics11223795
 
-* Michaud, F., Sueur, J., Le Cesne, M., & Haupert, S. (2023). *Unsupervised classification to improve the quality of a bird song recording dataset.* In:  Ecological Informatics, 74, 101952.
-https://doi.org/10.1016/j.ecoinf.2022.101952
 
-* Srivastava, S., & Sharma, G. (2024). Omnivec: Learning robust representations with cross modal sharing. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 1236-1248).
-
-* Chen, S., Wu, Y., Wang, C., Liu, S., Tompkins, D., Chen, Z., & Wei, F. (2022). Beats: Audio pre-training with acoustic tokenizers. arXiv preprint https://arxiv.org/abs/2212.09058v1
