@@ -104,10 +104,14 @@ In a later phase we will add bat sound recordings from [species](https://www.vle
 
 We aim to develop a open-source Audio Classification Model dedicated to bat sound analysis using a transfer learning approach with high-resolution scalogram images as input data. 
 
-<img align="left" width="900" height="400" src="https://github.com/HR-DATA-FABRIC/CLASSIFYING_ANIMAL_SOUNDS-with-MACHINE_LEARNING/assets/684692/c2cccb48-c6d9-44d9-ab01-9a5ade36f8b5">
+<img align="left" width="500" height="200" src="https://github.com/HR-DATA-FABRIC/CLASSIFYING_ANIMAL_SOUNDS-with-MACHINE_LEARNING/assets/684692/c2cccb48-c6d9-44d9-ab01-9a5ade36f8b5">
 
-The [DSI-stack](https://cursus.logistiekdigitaal.nl/course/building-a-data-driven-infrastructure) , shown here, will be used to implement our *bats sound classification* use case. Its main purpose is to make informed infrastructural decisions when employing the CRISP-DM workflow. The DSI-stack is compartmentalized into eight layers — [1] Data Warehousing; [2] Compute Resources; [3] Toolchain; [5] Workflow Orchestration; [5] Software Architecture; [6] Model Development; [7] Feature Engineering; [8] Data Product. 
+The [DSI-stack](https://cursus.logistiekdigitaal.nl/course/building-a-data-driven-infrastructure), shown here, will be used to implement our *bats sound classification* use case. Its main purpose is to make informed infrastructural decisions when employing the CRISP-DM workflow. 
+
+<pre>
+The DSI-stack is compartmentalized into eight layers — [1] Data Warehousing; [2] Compute Resources; [3] Toolchain; [5] Workflow Orchestration; [5] Software Architecture; [6] Model Development; [7] Feature Engineering; [8] Data Product. 
 Deployment— whereby the dependency on infrastructure —i.e., involvement of a data engineer as indicated by the blue colored area—progressively increases toward the bottom of the stack. 
+</pre>
 
 </br>
 
