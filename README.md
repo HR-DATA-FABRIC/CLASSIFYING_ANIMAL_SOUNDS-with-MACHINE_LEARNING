@@ -104,7 +104,7 @@ In a later phase we will add bat sound recordings from [species](https://www.vle
 
 We aim to develop a open-source Audio Classification Model dedicated to bat sound analysis using a transfer learning approach with high-resolution scalogram images as input data. 
 
-<img align="left" width="500" height="200" src="https://github.com/HR-DATA-FABRIC/CLASSIFYING_ANIMAL_SOUNDS-with-MACHINE_LEARNING/assets/684692/c2cccb48-c6d9-44d9-ab01-9a5ade36f8b5">
+<img align="left" width="500" height="250" src="https://github.com/HR-DATA-FABRIC/CLASSIFYING_ANIMAL_SOUNDS-with-MACHINE_LEARNING/assets/684692/c2cccb48-c6d9-44d9-ab01-9a5ade36f8b5">
 
 The [DSI-stack](https://cursus.logistiekdigitaal.nl/course/building-a-data-driven-infrastructure), shown here, will be used to implement our *bats sound classification* use case. Its main purpose is to make informed infrastructural decisions when employing the CRISP-DM workflow. 
 
@@ -113,7 +113,6 @@ The DSI-stack is compartmentalized into eight layers — [1] Data Warehousing; [
 Deployment— whereby the dependency on infrastructure —i.e., involvement of a data engineer as indicated by the blue colored area—progressively increases toward the bottom of the stack. 
 </pre>
 
-</br>
 
 We will start by implementing Matlab's audioPretrainedNetwork [Matlab Mathworks](https://nl.mathworks.com/help/audio/ref/audiopretrainednetwork.html#description) that allows to [implement](https://nl.mathworks.com/help/deeplearning/ug/transfer-learning-with-audio-networks-in-deep-network-designer.html) transfer learning with a specified pretrained audio neural networks like YAMnet or VGGish.
 
@@ -204,7 +203,8 @@ https://paperswithcode.com/sota/audio-classification-on-audioset
 
 15. Tsalera, E., Papadakis, A., & Samarakou, M. (2021). Comparison of Pre-Trained CNNs for Audio Classification Using Transfer Learning. *Journal of Sensor and Actuator Networks, 10(72),* 1-9. [DOI](https://doi.org/10.3390/jsan10040072)
 
-16. Willigen van der, R.F. & Zhu, Q. (2023) Building a data-driven infrastructure Learn hands on how to solve Logistics Use Cases by means of a Data Science Infrastructure Stack(DSI). *eBook* https://cursus.logistiekdigitaal.nl/course/building-a-data-driven-infrastructure
+16. Willigen van der, R.F. & Zhu, Q. (2023) Building a data-driven infrastructure Learn hands on how to solve Logistics Use Cases by means of a Data Science Infrastructure Stack(DSI). 
+[*eBook*](https://cursus.logistiekdigitaal.nl/course/building-a-data-driven-infrastructure)
 
 
 
