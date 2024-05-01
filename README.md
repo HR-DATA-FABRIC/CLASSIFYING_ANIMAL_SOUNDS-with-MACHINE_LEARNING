@@ -102,9 +102,18 @@ In a later phase we will add bat sound recordings from [species](https://www.vle
 
 ## Research Approach: Transfer Learning
 
-We aim to develop a Audio Classification Model dedicated to bat sound analysis using a transfer learning approach with high-resolution scalogram images as input data. 
+We aim to develop a open-source Audio Classification Model dedicated to bat sound analysis using a transfer learning approach with high-resolution scalogram images as input data. 
 
-We will start by implementing Matlab's audioPretrainedNetwork [Matlab Mathworks](https://nl.mathworks.com/help/audio/ref/audiopretrainednetwork.html#description) that allows to [implement](https://nl.mathworks.com/help/deeplearning/ug/transfer-learning-with-audio-networks-in-deep-network-designer.html) transfer learning with a specified pretrained audio neural network like YAMnet or VGGish.
+<img align="left" width="600" height="250" src="https://github.com/HR-DATA-FABRIC/CLASSIFYING_ANIMAL_SOUNDS-with-MACHINE_LEARNING/assets/684692/c2cccb48-c6d9-44d9-ab01-9a5ade36f8b5">
+
+The [DSI-stack](https://cursus.logistiekdigitaal.nl/course/building-a-data-driven-infrastructure) , shown here, will be used to implement our *bats sound classification* use case. Its main purpose is to make informed infrastructural decisions when employing the CRISP-DM workflow. The DSI-stack is compartmentalized into eight layers — [1] Data Warehousing; [2] Compute Resources; [3] Toolchain; [5] Workflow Orchestration; [5] Software Architecture; [6] Model Development; [7] Feature Engineering; [8] Data Product. 
+
+</br>
+Deployment— whereby the dependency on infrastructure —i.e., involvement of a data engineer as indicated by the blue colored area—progressively increases toward the bottom of the stack. 
+
+</br>
+
+We will start by implementing Matlab's audioPretrainedNetwork [Matlab Mathworks](https://nl.mathworks.com/help/audio/ref/audiopretrainednetwork.html#description) that allows to [implement](https://nl.mathworks.com/help/deeplearning/ug/transfer-learning-with-audio-networks-in-deep-network-designer.html) transfer learning with a specified pretrained audio neural networks like YAMnet or VGGish.
 
  A comparison will be made to [Google's Tensorflow implementation](https://www.tensorflow.org/tutorials/audio/transfer_learning_audio) of transfer learning with YAMNet for environmental sound classification and [Pytorch Audio classification](https://bamblebam.medium.com/audio-classification-and-regression-using-pytorch-48db77b3a5ec).
 
@@ -114,10 +123,19 @@ Shown is a taxonomy of Deep learning architectures commonly used for audio class
 
 Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), autoencoders, transformers and hybrid models (hybrid deep learning models, such as CNN-RNN and hybrid deep learning models with traditional classifiers such as CNN-SVM).
 
+</br>
+
+</br>
+
+</br>
+
+</br>
+
 The most promising pre-trained deep learning audio classifiers are Audio Spectrogram Transformer models according to  [Papers with Code](https://paperswithcode.com/task/audio-classification). But the top 5 are not available through the open-source transformers library [Huggingface](https://huggingface.co/).
 
+</br>
 
-<img align="left" width="500" height="600" src="image-3.png"> Most transformer models are benchmarked with [AudioSet](https://research.google.com/audioset/). It consists of an expanding ontology of 632 audio event classes and a collection of 2,084,320 human-labeled 10-second sound clips drawn from YouTube videos. See also [List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research) + The AudioSet ontology is a collection of sound events organized in a hierarchy [(see also Google AudioSet Ontology)](https://research.google.com/audioset/ontology/index.html). It does not contain bat sounds.
+<img align="left" width="500" height="600" src="image-3.png"> Most transformer models are benchmarked with [AudioSet](https://research.google.com/audioset/). It consists of an expanding ontology of 632 audio event classes and a collection of 2,084,320 human-labeled 10-second sound clips drawn from YouTube videos. See also [List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research) + The AudioSet ontology is a collection of sound events organized in a hierarchy [(see also Google AudioSet Ontology)](https://research.google.com/audioset/ontology/index.html). Note, however, AudioSet does not contain bat sounds.
 
 
 
@@ -183,6 +201,8 @@ https://paperswithcode.com/sota/audio-classification-on-audioset
 14. Stowell, D. (2022). Computational bioacoustics with deep learning: A review and roadmap. *PeerJ, 10,* e13152. [DOI](https://doi.org/10.7717/peerj.13152)
 
 15. Tsalera, E., Papadakis, A., & Samarakou, M. (2021). Comparison of Pre-Trained CNNs for Audio Classification Using Transfer Learning. *Journal of Sensor and Actuator Networks, 10(72),* 1-9. [DOI](https://doi.org/10.3390/jsan10040072)
+
+16. Willigen van der, R.F. & Zhu, Q. (2023) Building a data-driven infrastructure Learn hands on how to solve Logistics Use Cases by means of a Data Science Infrastructure Stack(DSI). *eBook* https://cursus.logistiekdigitaal.nl/course/building-a-data-driven-infrastructure
 
 
 
